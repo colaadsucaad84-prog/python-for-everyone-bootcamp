@@ -1,4 +1,4 @@
-# Student: [Your GitHub Username]
+# Student: Ali-Salad
 # Description: A short text-based quiz about Python basics, with a randomized math question each run.
 
 import random
