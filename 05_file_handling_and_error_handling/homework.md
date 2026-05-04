@@ -90,4 +90,4 @@ Use only **built-in** exceptions (`ValueError`); do not define your own exceptio
 - [ ] You can read a traceback enough to find **line number** and **exception type**.
 - [ ] You can **`raise`** and **`except`** `ValueError` for a simple validation rule.
 
-Next: **Section 6 — OOP Fundamentals** (when it is in the course).
+Next: **Section 6** — `06_object_oriented_programming` (Object-oriented programming).

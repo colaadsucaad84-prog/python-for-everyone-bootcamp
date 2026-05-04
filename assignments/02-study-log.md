@@ -79,3 +79,5 @@ Follow **`submissions/README.md`**: add **`study_log.py`** under **`submissions/
 - [ ] Menu uses **`if` / `elif` / `else`**; notes are a **`list`**; **`for`** to list them.
 - [ ] **`load_notes`** + **`save_notes`** + **`main()`**; **`if __name__ == "__main__":`**.
 - [ ] Load uses **`try` / `except FileNotFoundError`**; save/read uses **`encoding="utf-8"`**.
+
+After Section 6, try **Assignment 3** — [`03-personal-catalog.md`](03-personal-catalog.md) (Sections 1–6).
