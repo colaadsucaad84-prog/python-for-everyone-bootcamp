@@ -1,3 +1,10 @@
+# Marshaale
+
+#
+# This program is simple game catalog program.
+# allows users to add games or retrieve games
+#
+
 from dataclasses import dataclass
 
 @dataclass
