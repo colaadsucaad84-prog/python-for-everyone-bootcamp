@@ -4,3 +4,4 @@ Halo Infinite|2021|xbox
 Super Mario Odyssey|2017|nintendo
 Clash of Clans|2012|mobile
 The Legend of Zelda: Breath of the Wild|2017|nintendo
+uncharted 4|2026|pc
