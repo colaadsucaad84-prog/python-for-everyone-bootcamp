@@ -59,4 +59,4 @@ None
 
 ---
 
-**End of Section 5 (File handling and error handling).** Complete `homework.md`, then continue to **Section 6 — OOP Fundamentals** when it is available.
+**End of Section 5 (File handling and error handling).** Complete `homework.md`, then continue to **`06_object_oriented_programming`** (`01-classes-and-objects.md`).

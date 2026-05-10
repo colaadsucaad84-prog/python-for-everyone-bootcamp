@@ -13,6 +13,7 @@ This is the main starting point for the bootcamp. All lessons, practice files, a
 | `03_collections_and_loops` | Collections, `for` / `while` / `break`–`continue`, patterns (`enumerate`, `.items()`), methods |
 | `04_functions` | Functions, parameters, return values, defaults, `*args` / `**kwargs`, scope |
 | `05_file_handling_and_error_handling` | File I/O (read / write / append), `try` / `except` / `finally` |
+| `06_object_oriented_programming` | Classes, methods, inheritance, dataclasses, composition |
 
 If you're joining the bootcamp, start by cloning this repository and opening it in VS Code or Cursor.
 
